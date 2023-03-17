@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>10</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="11.0.0" />
+        <PackageReference Include="FluentValidation.AspNetCore" Version="11.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Skelp.Data.Sql\Skelp.Data.Sql.csproj" />
+      <ProjectReference Include="..\Skelp.IData\Skelp.IData.csproj" />
+      <ProjectReference Include="..\Skelp.Infrastructure\Skelp.Infrastructure.csproj" />
+      <ProjectReference Include="..\Skelp.IServices\Skelp.IServices.csproj" />
+      <ProjectReference Include="..\Skelp.Services\Skelp.Services.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\bin\Debug\net6.0\Foodly.Data.Sql.deps.json
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\bin\Debug\net6.0\Foodly.Data.Sql.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\bin\Debug\net6.0\Foodly.Data.Sql.pdb
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\bin\Debug\net6.0\Foodly.Common.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\bin\Debug\net6.0\Foodly.Common.pdb
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.csproj.CopyComplete
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\refint\Foodly.Data.Sql.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\Foodly.Data.Sql.pdb
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Data.sql\obj\Debug\net6.0\ref\Foodly.Data.Sql.dll

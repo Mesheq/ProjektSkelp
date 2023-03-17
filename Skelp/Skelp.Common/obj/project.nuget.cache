@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1izCQSaK5k9xFO+N1lye7D2es/MqaoPhtSWMhf900LbkB0f/3pKws908UUSnefyUrfhonpxzc8soLHyoQZhlKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paweł\\Desktop\\projekt-s_101506\\Skelp\\Skelp.Common\\Skelp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paweł\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

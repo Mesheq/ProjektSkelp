@@ -1,0 +1,12 @@
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\bin\Debug\net6.0\Foodly.Common.deps.json
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\bin\Debug\net6.0\Foodly.Common.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\bin\Debug\net6.0\Foodly.Common.pdb
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\refint\Foodly.Common.dll
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\Foodly.Common.pdb
+C:\Users\Paweł\Desktop\zadanie_3-master\Foodly\Skelp.Common\obj\Debug\net6.0\ref\Foodly.Common.dll

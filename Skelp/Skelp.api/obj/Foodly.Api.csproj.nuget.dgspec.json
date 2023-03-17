@@ -1,0 +1,459 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Api\\Foodly.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Api\\Foodly.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Api\\Foodly.Api.csproj",
+        "projectName": "Foodly.Api",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Api\\Foodly.Api.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\Foodly.Data.Sql.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\Foodly.Data.Sql.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\Foodly.Services.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\Foodly.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj",
+        "projectName": "Foodly.Common",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\Foodly.Data.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\Foodly.Data.Sql.csproj",
+        "projectName": "Foodly.Data.Sql",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\Foodly.Data.Sql.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Data.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj",
+        "projectName": "Foodly.Domain",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj",
+        "projectName": "Foodly.IData",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj",
+        "projectName": "Foodly.IServices",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Common\\Foodly.Common.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\Foodly.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\Foodly.Services.csproj",
+        "projectName": "Foodly.Services",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\Foodly.Services.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.Domain\\Foodly.Domain.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IData\\Foodly.IData.csproj"
+              },
+              "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj": {
+                "projectPath": "C:\\Users\\Paweł\\Desktop\\zadanie_7-master\\Foodly\\Foodly.IServices\\Foodly.IServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

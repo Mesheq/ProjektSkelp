@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Api", "Skelp.Api\Skelp.Api.csproj", "{01806FED-5B83-4E52-9685-75461DB55E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Common", "Skelp.Common\Skelp.Common.csproj", "{C6092370-C54A-41E1-B770-BF7219CD26B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Data.Sql", "Skelp.Data.Sql\Skelp.Data.Sql.csproj", "{FCB33B81-18C6-419E-8C24-6E446B371C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Domain", "Skelp.Domain\Skelp.Domain.csproj", "{312318FD-130D-4804-8A5C-9DAD50917B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.IData", "Skelp.IData\Skelp.IData.csproj", "{4F814F8F-A8B3-4EB6-B30D-85EB9A42E0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Infrastructure", "Skelp.Infrastructure\Skelp.Infrastructure.csproj", "{E9BD48EE-12D9-4E8B-BD39-A862A1A1D007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.IServices", "Skelp.IServices\Skelp.IServices.csproj", "{E0178755-5D97-44DA-8B79-39F2DA3E0D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skelp.Services", "Skelp.Services\Skelp.Services.csproj", "{EBAD0778-E845-4C0D-B87A-D8AF43E290C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01806FED-5B83-4E52-9685-75461DB55E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01806FED-5B83-4E52-9685-75461DB55E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01806FED-5B83-4E52-9685-75461DB55E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01806FED-5B83-4E52-9685-75461DB55E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6092370-C54A-41E1-B770-BF7219CD26B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6092370-C54A-41E1-B770-BF7219CD26B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6092370-C54A-41E1-B770-BF7219CD26B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6092370-C54A-41E1-B770-BF7219CD26B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB33B81-18C6-419E-8C24-6E446B371C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB33B81-18C6-419E-8C24-6E446B371C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB33B81-18C6-419E-8C24-6E446B371C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB33B81-18C6-419E-8C24-6E446B371C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312318FD-130D-4804-8A5C-9DAD50917B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312318FD-130D-4804-8A5C-9DAD50917B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312318FD-130D-4804-8A5C-9DAD50917B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312318FD-130D-4804-8A5C-9DAD50917B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F814F8F-A8B3-4EB6-B30D-85EB9A42E0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F814F8F-A8B3-4EB6-B30D-85EB9A42E0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F814F8F-A8B3-4EB6-B30D-85EB9A42E0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F814F8F-A8B3-4EB6-B30D-85EB9A42E0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BD48EE-12D9-4E8B-BD39-A862A1A1D007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BD48EE-12D9-4E8B-BD39-A862A1A1D007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BD48EE-12D9-4E8B-BD39-A862A1A1D007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BD48EE-12D9-4E8B-BD39-A862A1A1D007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0178755-5D97-44DA-8B79-39F2DA3E0D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0178755-5D97-44DA-8B79-39F2DA3E0D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0178755-5D97-44DA-8B79-39F2DA3E0D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0178755-5D97-44DA-8B79-39F2DA3E0D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAD0778-E845-4C0D-B87A-D8AF43E290C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAD0778-E845-4C0D-B87A-D8AF43E290C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAD0778-E845-4C0D-B87A-D8AF43E290C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAD0778-E845-4C0D-B87A-D8AF43E290C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
